@@ -92,5 +92,7 @@
       "Dr. A.P.J. Abdul Kalam Technical University, Lucknow"
     ]
   },
-  "version": "v1.0.1"
+  "version": "v1.1.0",
+  "exp_name": "Rim Type Flywheel",
+  "exp_short_name": "rim-type-flywheel"
 }

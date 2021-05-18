@@ -14,63 +14,63 @@
       "name": "Dynamics analysis of Four bar mechanism",
       "short-name": "four-bar-mechanism",
       "repo": "https://github.com/virtual-labs/exp-four-bar-mechanism-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Dynamics analysis of slider crank mechanism",
       "short-name": "slider-crank-mechanism",
       "repo": "https://github.com/virtual-labs/exp-slider-crank-mechanism-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Proell Governer",
       "short-name": "proell-governet",
       "repo": "https://github.com/virtual-labs/exp-proell-governer-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Porter Governer",
       "short-name": "porter-governer",
       "repo": "https://github.com/virtual-labs/exp-porter-governer-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Hartnell Governer",
       "short-name": "hartnell-governer",
       "repo": "https://github.com/virtual-labs/exp-hartnell-governer-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Balancing of multiple mass in single plane",
       "short-name": "multiple-mass-in-single-plane",
       "repo": "https://github.com/virtual-labs/exp-multiple-mass-in-single-plane-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Balancing of Multiple Mass in Multiple Plane",
       "short-name": "muliple-mass-in-multiple-plane",
       "repo": "https://github.com/virtual-labs/exp-muliple-mass-in-multiple-plane-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Disc Type Flywheel",
       "short-name": "disc-type-flywheel",
       "repo": "https://github.com/virtual-labs/exp-disc-type-flywheel-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Rim Type Flywheel",
       "short-name": "rim-type-flywheel",
       "repo": "https://github.com/virtual-labs/exp-rim-type-flywheel-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],

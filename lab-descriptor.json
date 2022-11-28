@@ -4,6 +4,7 @@
     "link": "http://vlab.co.in/broad-area-civil-engineering"
   },
   "lab": "Dynamics of Machine",
+  "lab_display_name": "Dynamics of Machine",
   "phase": 3,
   "deployLab": true,
   "collegeName": "NITS",
@@ -92,7 +93,7 @@
       "Dr. A.P.J. Abdul Kalam Technical University, Lucknow"
     ]
   },
-  "version": "v1.4.0",
+  "version": "v1.5.0",
   "exp_name": "Rim Type Flywheel",
   "exp_short_name": "rim-type-flywheel"
 }
